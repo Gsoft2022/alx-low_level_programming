@@ -1,1 +1,1 @@
-my readme about debugging
+my debugging readme
