@@ -18,25 +18,15 @@ working in the C language. The specific list of projects contained follows:
 * [0x0A. C - argc, argv](./0x09-argc_argv)
 * [0x0B. C - malloc, free](./0x0A-malloc_free)
 * [0x0C. C - More malloc, free](./0x0C-more_malloc_free)
-* [0x0D. C - Preprocessor](./0x0D-preprocessor)
-* [0x0E. C - Structures, typedef](./0x0E-structures_typedef)
-* [0x0F. C - Function pointers](./0x0F-function_pointers)
-* [0x10. C - Variadic functions](./0x10F-variadic_functions)
-* [0x12. C - Singly linked lists](./0x12-singly_linked_lists)
-* [0x13. C - More singly linked lists](./0x13-more_singly_linked_lists)
-* [0x14. C - Bit manipulation](./0x14-bit_manipulation)
-* [0x15. C - File I/O](./0x15-file_io)
-* [0x17. C - Doubly linked lists](./0x17-doubly_linked_lists)
-* [0x18. C - Dynamic libraries](./0x18-dynamic_libraries)
-* [0x1A. C - Hash tables](./0x1A-hash_tables)
+
 
 ## Author 🏴✒️
 
-* __Anteneh Kassaw Bizuneh__ <[Anteneh2121](https://github.com/Anteneh2121)>
+* __Gemechu Mitiku Guteta__ <[Gsoft2022](https://github.com/Gsoft2022)>
 
 ## Acknowledgements 🙏:
 
 All work contained in this project was completed as part of the curriculum for
-Holberton School and ALX . Holberton School with ALX is a campus-based full-stack software
+ALX and partners. Holberton School with ALX is a campus-based full-stack software
 engineering program that prepares students for careers in the tech industry
 
