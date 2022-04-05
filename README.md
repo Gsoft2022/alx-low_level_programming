@@ -20,7 +20,8 @@ working in the C language. The specific list of projects contained follows:
 * [0x0C. C - More malloc, free](./0x0C-more_malloc_free)
 
 
-## Author 🏴✒️
+## Author ![image](https://user-images.githubusercontent.com/99259978/161840858-713f7f65-687a-42d1-a747-9451947c1dc9.png)
+
 
 * __Gemechu Mitiku Guteta__ <[Gsoft2022](https://github.com/Gsoft2022)>
 
