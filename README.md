@@ -25,7 +25,7 @@ working in the C language. The specific list of projects contained follows:
 
 * __Gemechu Mitiku Guteta__ <[Gsoft2022](https://github.com/Gsoft2022)>
 
-## Acknowledgements 
+## Acknowledgements to Alx Software Program 
 
 
 
