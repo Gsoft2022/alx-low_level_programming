@@ -25,7 +25,8 @@ working in the C language. The specific list of projects contained follows:
 
 * __Gemechu Mitiku Guteta__ <[Gsoft2022](https://github.com/Gsoft2022)>
 
-## Acknowledgements (https://user-images.githubusercontent.com/99259978/161842458-b6505f05-6c1d-4f90-a97c-1babdff38a3a.png)
+## Acknowledgements 
+
 
 
 
