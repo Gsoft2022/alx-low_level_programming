@@ -25,7 +25,8 @@ working in the C language. The specific list of projects contained follows:
 
 * __Gemechu Mitiku Guteta__ <[Gsoft2022](https://github.com/Gsoft2022)>
 
-## Acknowledgements 🙏:
+## Acknowledgements:[image](https://user-images.githubusercontent.com/99259978/161841769-5020723a-731e-49c4-ab0f-fb51ad199930.png)
+
 
 All work contained in this project was completed as part of the curriculum for
 ALX and partners. Holberton School with ALX is a campus-based full-stack software
